@@ -1,0 +1,117 @@
+HTML STANDS FOR HYPERTEXT MARKUP LANGUAGE
+USED TO CREATE WEB PAGES
+LATEST VERSION HTML 5
+CREATED BY TIM BERNERS LEE IN 1991
+HTML FILE IS CREATED USING DIFFERENT TAGS
+<>-OPENING </>-CLOSING
+HEAD-INFORMATION ON TAB THEN TITLE WHICH IS THE TAB
+BODY-WEBPAGE DETAILS 
+h1-h6= FOR CREATING HEADING,FONT SIZE(BODY,HTML ATLAST)
+P=PARAGRAGH
+BR-LINE BREAK
+
+LINE FORMATING
+B-BOLD
+I-ITALICS
+MARK-HIGHLIGHT THE TEXT
+SMALL-MAKING SMALL
+DEL-DELETE THE TEXT 
+INS-INSERT WITH UNDERLINE
+SUP-TO CONVERT INTO RAISE POWER
+SUB-TO CONVERT DOWN
+BLOCKQUOTE-ALIGNMENT
+
+COMMENTS
+<-- --> ONLY DISPLAYED IN BROWSER
+<ADDRESS>
+<CITE>-TO HIGHLIGHT
+
+CSS
+INLINE-STYLE ATTRIBUTE INSIDE HTML ELEMENTS
+INTERNAL-<STYLE> ELEMENT INSIDE <HEAD> TAG
+EXTERNAL-<LINK> ELEMENT TO LINK AN EXTERNAL CSS FILE
+<link rel="stylesheet" href="style.css" in html file after title
+in css file
+body{
+}
+
+<BODY>
+<H1 STYLE="COLOUR:RED;"LEARN HTML</H1> 
+
+html colours
+
+colour name
+rgb-red,green,blue
+hex-hexadecimal value eg:#e306c
+hsl-hue,saturation,lightness values eg:hsl(10,90%,65%)
+rgba-rgb with alpha channel eg:rgba(200,100,115,0.4)
+hsla-hsl with alpha channel eg:hsla1(236,92%,41%,0.7)
+
+html tables
+
+
+tr-heading(main)
+th-table contents
+td-table data
+padding,border collapse 
+caption for heading of table
+colspan- to separate same data eg:if we have 3 contact number
+
+html links
+
+inside h tag
+<a href='link"> target-the site will open in new tab,title
+google
+text decoration-to remove underline
+
+
+html images
+<img src="image name"width and height>
+alt-for the description of photo
+background-attatchment:fixed,background-repeat:no_repeat,background_size:100% 100%
+
+image map
+
+<map name="mentioned name">
+<area shape="rect" coords="size" href="link">  
+
+
+division element  
+
+div-into sections
+float-to move into certain position
+
+html classes-to specify the class 
+
+<h1 class="fruit organic">tomato/h2>
+
+html id-unique id
+
+describe with veg1 or fruit1 etc
+
+html list-unordered and ordered
+
+ordered-numbers,ol tag ,li tag
+unordered-bullets,ul tag
+overflow:hidden,list-style-type:none
+padding-for distance
+
+iframe-to go to another website 
+<iframe src="">
+
+html forms-to get user input
+<form>
+<label for="username">username:</label>   
+<input type="text" name="username" id="username">
+<label>password</label>
+<input type="password" name="password id="password">
+<input type="submit" value="submit">  
+
+
+
+
+
+
+
+
+
